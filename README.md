@@ -11,9 +11,9 @@ The script was written for personal use. Feel free to copy it and adapt it but
 chances that I maintain a more generic solution are slim to non-existant.
 
 ## requirements
-`import` from imagemagick
-`jq` command-line json parser
-`xclip` X clipboard tool
+* `import` from imagemagick
+* `jq` command-line json parser
+* `xclip` X clipboard tool
 
 ## installation
 * I have cloned this repository to `~/.local/bin/screenshotter`
