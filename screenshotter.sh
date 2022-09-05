@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/sh
 
 FILE_BASEPATH=~/Pictures/
 FILE_NAME=`date +%Y%m%d-%H%M%S-screenshot.jpg`
