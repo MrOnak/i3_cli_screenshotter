@@ -17,12 +17,12 @@ chances that I maintain a more generic solution are slim to non-existant.
 
 ## installation
 * I have cloned this repository to `~/.local/bin/screenshotter`
-* `ln -s ~/.local/bin/screenshotter/screenshotter.sh ~/.local/bin/screenshotter.sh`
+* `ln -s ~/.local/bin/screenshotter/screenshotter.zsh ~/.local/bin/screenshotter`
 
 ## i3 integration
 Tweak your keyboard shortcuts to your own needs, but these are mine
 
 ```
-bindsym --release Print exec --no-startup-id screenshotter.sh area
-bindsym --release Ctrl+Print exec --no-startup-id screenshotter.sh window
+bindsym --release Print exec --no-startup-id screenshotter area
+bindsym --release Ctrl+Print exec --no-startup-id screenshotter window
 ```
